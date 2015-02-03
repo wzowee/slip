@@ -576,6 +576,8 @@ window['Slip'] = (function(){
                 y: e.clientY,
                 time: e.timeStamp,
             });
+            
+            e.stopPropagation();
         },
 
         onTouchStart: function(e) {
