@@ -1,4 +1,6 @@
 /*
+    NB: This is the forked version taken from: https://github.com/wzowee/slip
+    
     Slip - swiping and reordering in lists of elements on touch screens, no fuss.
 
     Fires these events on list elements:
